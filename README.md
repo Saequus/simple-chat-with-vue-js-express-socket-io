@@ -1,4 +1,5 @@
 # simple-chat-with-vue-js-express-socket-io
+Chat for users and operators (with Russian language). 
 
 Technologies:
 ------
@@ -10,6 +11,8 @@ Technologies:
 Running on local server
 ------
 1. Unzip file
-2. RUn chat.js script:: 
-$ node chat.js
+2. Run chat.js script
+
+  $ node chat.js
+
 3. Chat is working on 127.0.0.1:3000 address
